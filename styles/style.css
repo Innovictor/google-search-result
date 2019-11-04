@@ -1,0 +1,51 @@
+
+.topnav #profile{
+    float: right;
+    border-radius: 50%;
+    text-decoration: none;
+    width: 40px;
+    height: 40px;
+}
+.topnav #apps{
+    float: right;
+    border-radius: 50%;
+    text-decoration: none;
+    width: 40px;
+    height: 40px;
+}
+.topnav #home{
+    float: left;
+    text-decoration: none;
+    width: 60px;
+    height: 60px;
+}
+
+.searchBar {
+    background-color: white;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    padding: 10px 30px 10px 3px;
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+    margin: 20px auto 0px 10%;
+    height: 25px;
+    
+}
+.searchBar #lens {
+    position: relative;
+    height: 20px;
+    top: 0px;
+    float: right;
+}
+.search {
+    border: none;
+    background-color: transparent;
+    width: 50%;
+    height: 20px;
+    position: relative;
+    padding-bottom: 5px;
+}
+.searchBar:hover {
+    box-shadow: 0px 0px 5px grey;
+}
