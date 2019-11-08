@@ -28,7 +28,7 @@
     width: 50%;
     text-align: left;
     font-size: 20px;
-    margin: 20px auto 0px 10%;
+    margin: 20px auto 0px 10%;ight
     height: 25px;
     
 }
@@ -49,3 +49,47 @@
 .searchBar:hover {
     box-shadow: 0px 0px 5px grey;
 }
+.topnav2 {
+    background-color: transparent;
+    overflow: hidden;
+    position: fixed; 
+    border: none;
+    width: 100%;
+    height: 20px;
+    position: fixed;
+    padding-bottom: 5px;
+    text-decoration: none;
+  }
+  .topnav2 #All {
+    position: relative;
+    height: 15px;
+    top: 0px;
+    text-decoration: none;
+  }
+  .topnav2 #News {
+    position: relative;
+    height: 15px;
+    top: 0px;
+    text-decoration: none;
+  }
+
+  .topnav2 #Videos {
+    position: relative;
+    height: 15px;
+    top: 0px;
+    text-decoration: none;
+  }
+
+  .topnav2 #Maps {
+    position: relative;
+    height: 15px;
+    top: 0px;
+    text-decoration: none;
+  }
+
+  .topnav2 #Images {
+    position: relative;
+    height: 15px;
+    top: 0px;
+    text-decoration: none;
+  }
